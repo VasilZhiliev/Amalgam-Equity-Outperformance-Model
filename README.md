@@ -1,5 +1,4 @@
 # Amalgam-Equity-Outperformance-Model
-Amalgam: Dynamic Factor Allocation with Machine Learning
 
 This repository contains the full research code and thesis for “Classifying Stock Outperformance: A Machine Learning Framework for Dynamic Factor Allocation” (Vrije Universiteit Amsterdam, Duisenberg Honours Programme in Finance and Technology, 2025).
 
