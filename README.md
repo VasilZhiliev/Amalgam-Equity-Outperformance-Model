@@ -16,7 +16,7 @@ Target: Probabilistic indicator (% prob 0 to 100) of quarterly outperformance fo
 
 Key Results:
 
-Out-of-sample period: 1981–2024 (44 years, quarterly rebalancing)
+Out-of-sample period: Q!1 1981– Q4 2024 (44 years, quarterly rebalancing)
 
 CAGR: 20.6% gross; 19.6% net of trading costs, vs. 8.9% for S&P500
 
