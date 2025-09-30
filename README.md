@@ -10,7 +10,7 @@ Model: XGBoost classifier with probabilistic outputs
 
 Data: CRSP & Compustat fundamental and market-based data (1961–2024)
 
-Features: 29 factor proxies (Value, Quality, Profitability, Investment, Low Risk, etc.) + GICS Industry Categorical Signals
+Features: 28 factor proxies (Value, Quality, Profitability, Investment, Low Risk, etc.) + GICS Industry Categorical Signals
 
 Target: Probabilistic indicator (% prob 0 to 100) of quarterly outperformance for a stock vs. both its industry peers and the value-weighted benchmark index
 
